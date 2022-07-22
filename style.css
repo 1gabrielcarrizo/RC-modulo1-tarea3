@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: cursive;
+    background-color: #665;
+}
+.photo-gallery {
+    background: rgb(255, 254, 217);
+}
+.photo-gallery img { 
+    width: 250px;
+    height: 250px;
+}
+.photo1{
+    border-radius: 50%;
+    border: 10px solid cyan;
+
+}
+
+.photo2{
+    border-radius: 50%;
+    border: 10px dashed lightsalmon;
+    
+}
+
+.photo3{
+    border-radius: 50%;
+    border: 10px double green;
+    
+}
+
+.photo4{
+    border-radius: 50%;
+    border: 10px inset chocolate;
+    
+}
+
+.photo5{
+    border-radius: 50%;
+    border: 10px ridge purple;
+    
+}
+
+.photo6{
+    border-radius: 50%;
+    border: 10px outset red;
+    
+}
+
+.photo7{
+    border-radius: 50%;
+    border: 10px groove yellow;
+    
+}
+
+.photo8{
+    border-radius: 50%;
+    border: 10px dotted lightseagreen;
+    
+}
+
+h1{
+    text-align: center;
+}
